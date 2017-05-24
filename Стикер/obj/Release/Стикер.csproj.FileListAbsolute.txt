@@ -1,0 +1,38 @@
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\ApplicationIcon.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Assets\Tiles\IconicTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\AppManifest.xaml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Properties\WMAppManifest.xml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\App.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\MainPage.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\Стикер.Resources.AppResources.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\Стикер.csproj.GenerateResource.Cache
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\XapCacheFile.xml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Sticker.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Sticker.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\Sticker.g.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\Sticker.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\obj\Release\Sticker.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Стикер\Стикер\Bin\Release\Sticker.xap
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Sticker.dll
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Sticker.pdb
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\AppManifest.xaml
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\Bin\Release\Sticker.xap
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\App.g.cs
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\MainPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\Sticker.g.resources
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\Стикер.Resources.AppResources.resources
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\Стикер.csproj.GenerateResource.Cache
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\Sticker.dll
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\Sticker.pdb
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\XapCacheFile.xml
+C:\Users\Artem Shishkin\Desktop\Стикер\Стикер\obj\Release\AboutPage.g.cs

@@ -1,0 +1,46 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Стикер.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot представляет корневую сетку, где размещается все содержимое страницы-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+        <TextBlock x:Name="TBAuthor" Margin="10,0,10,10" TextWrapping="Wrap" Height="54" VerticalAlignment="Bottom" FontFamily="Arial Black" TextAlignment="Right">
+        	<Run Text="АВТОР : AMS"/>
+        	<LineBreak/>
+        	<Run Text="ВОРОНЕЖ 2016"/>
+        </TextBlock>
+        <TextBlock Margin="10,10,10,353" TextWrapping="Wrap" TextAlignment="Center" FontSize="22" FontFamily="Arial Black">
+        	<Run Text="СТИКЕР - приложение позволяющее делать небольшие заметки/пометки непосредственно на плитке приложения и отображать их на рабочем столе.  "/>
+        	<LineBreak/>
+        	<Run Text="Данное приложение является самым простым и удобным инструментом для создания небольших заметок и отображения их на рабочем столе вашего смартфона."/>
+        </TextBlock>
+        <TextBlock Margin="10,472,10,64" TextWrapping="Wrap" FontSize="20">
+        	<Run Text="КАК ЭТО РАБОТАЕТ:"/>
+        	<LineBreak/>
+        	<Run Text="1. Заполните строки"/>
+        	<LineBreak/>
+        	<Run Text="(некоторые строки можно оставить пустыми)"/>
+        	<LineBreak/>
+        	<Run Text="2. Перейдите на рабочий стол вашего смартфона и разместите там плитку данного приложения"/>
+        	<LineBreak/>
+        	<Run Text="(плитка должна быть максимального размера)"/>
+        	<LineBreak/>
+        	<Run Text="3. Готово! Теперь текст вашей заметки всегда на рабочем столе!"/>
+        </TextBlock>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
